@@ -1,0 +1,9 @@
+# directories
+cockroach-data/
+
+# Hidden files
+.*
+
+# But not these files...
+!.gitignore
+!.dockerignore
